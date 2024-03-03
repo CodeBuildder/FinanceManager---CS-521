@@ -4,5 +4,11 @@
         "date": "23-23-23",
         "category": "Groceries",
         "description": "Target"
+    },
+    {
+        "amount": 34.0,
+        "date": "02/03/23",
+        "category": "Ter",
+        "description": "ter"
     }
 ]

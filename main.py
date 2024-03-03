@@ -4,7 +4,7 @@ def main():
     manager = FinanceManager('transactions.json')
 
     while True:
-        print("\n\n\n\Personal Finance Manager")
+        print("\n\nHi!, I am your Personal Finance Manager")
         print("\n1. Add Transaction")
         print("\n2. Show Transactions")
         print("\n3. Show Summary")
